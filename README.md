@@ -1,2 +1,2 @@
 # Nuevo
-Proyecto de pruba
+Proyecto de prueba
